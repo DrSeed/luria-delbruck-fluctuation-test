@@ -1,0 +1,5 @@
+method,m_estimate,mutation_rate_per_division
+p0 method,1.386,1.06e-08
+Lea-Coulson median,1.512,1.15e-08
+MSS maximum likelihood,1.483,1.13e-08
+truth,1.311,1.00e-08
